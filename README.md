@@ -1,2 +1,2 @@
-# Calculadora_IMC_WordPress_Plugin
-Um plugin de cálculo de IMC para WordPress.
+# deskcode-imcalc
+Plugin para Wordpress de Calculadora IMC
